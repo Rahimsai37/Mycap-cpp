@@ -1,0 +1,14 @@
+#include<iostream>
+#include<conio.h>
+using namespace std;
+main()
+{
+int x;
+char ch;
+float f;
+double D;
+cout<<"size of int:"<<sizeof(x)<<" Bytes "<<"\n";
+cout<<"size of char:"<<sizeof(ch)<<" Byte "<<"\n";
+cout<<"size of float:"<<sizeof(f)<<" Bytes "<<"\n";
+cout<<"size of double:"<<sizeof(D)<<" Bytes "<<"\n";
+}
